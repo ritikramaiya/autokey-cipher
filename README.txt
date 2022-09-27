@@ -1,7 +1,4 @@
-NAME                        : Ritik Anand Ramaiya
-EMAIL                       : rramaiy1@binghamton.edu
-PROGRAMMING LANGUAGE        : python
-CODE TESTED ON REMOTE.CS    : YES
+
 
 HOW TO RUN:
  
